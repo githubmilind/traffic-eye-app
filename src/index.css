@@ -15,7 +15,7 @@ body{
   @apply max-w-7xl mx-auto;
 }
 h1{
-  font-family: 'Bonheur Royale', cursive;
+  font-family: 'system-ui';
   @apply text-3xl font-bold text-center my-6 text-green-800;
 }
 .navs{
